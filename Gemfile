@@ -25,7 +25,9 @@ gem 'semantic-ui-sass', '~> 2.4', '>= 2.4.4.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'hirb'
-
+gem 'javascript', '~> 0.0.2'
+gem 'coffee-rails'
+gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
