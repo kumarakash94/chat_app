@@ -28,6 +28,7 @@ gem 'hirb'
 gem 'javascript', '~> 0.0.2'
 gem 'coffee-rails'
 gem 'coffee-script', '~> 2.4', '>= 2.4.1'
+# gem 'ajax', '~> 1.1', '>= 1.1.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

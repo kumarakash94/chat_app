@@ -2,7 +2,7 @@ import consumer from "./consumer"
 
 consumer.subscriptions.create("ChatroomChannel", {
   connected() {
-    // Called when the subscription is ready for use on the server
+  
   },
 
   disconnected() {
@@ -10,6 +10,7 @@ consumer.subscriptions.create("ChatroomChannel", {
   },
 
   received(data) {
-    $('#message-container').append; data.foo
+     $('#message-container').append (data.mod_mesasge)
+     scroll_bottom()
   }
 });
